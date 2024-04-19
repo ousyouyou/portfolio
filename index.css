@@ -47,6 +47,11 @@ nav {
     color: white;
     margin-right: 35px;
   }
+  h2 {
+    text-decoration: none;
+    color: rgb(127,0,255);
+    margin-right: 36px;
+  }
 
   footer{
     text-align: center;
